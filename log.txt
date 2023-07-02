@@ -1,0 +1,28 @@
+the file name is ass.txt and the filemode is write modeINFO:root:division by zero
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:zero division error division by zero
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root: the value of a is 5
+INFO:root:this is a else block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root: the value of a is 5
+INFO:root:this is a else block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root: the value of a is 6
+INFO:root:this is a else block
+INFO:root:is will exectue either the error is found or not in the try block
+INFO:root:error please enter a valid input enter a numeric value
+INFO:root:Insufficient balance ('insufficiant balance', 500)
+INFO:root:print a actual balance 500
+INFO:root:Insufficient balance ('insufficiant balance', 500)
+INFO:root:print a actual balance 500
+INFO:root:error please enter a valid input enter a numeric value
